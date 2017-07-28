@@ -1,0 +1,27 @@
+.pastry-page {
+  text-align: center;
+}
+
+.pastry-page .pastry-container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.pastry-page .pastry-img-container {
+  margin: 0 auto;
+  min-width: 300px;
+  max-width: 400px;
+}
+
+.pastry-page h5 {
+  font-size: 32px;
+}
+
+.pastry-page li {
+  padding: 20px 0;
+  border-bottom: 1px solid black;
+}
+
+.pastry-page li:last-child {
+  border-bottom: 0;
+}

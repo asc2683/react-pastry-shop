@@ -1,0 +1,32 @@
+header {
+  background-color: rgb(244, 209, 234);
+  padding: 40px;
+}
+
+header h1 {
+  font-weight: lighter;
+  width: 350px;
+  margin: 0 auto;
+}
+
+header h1 span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header h1 .car-word {
+  font-family: 'Marigold', sans-serif;
+  width: 60%;
+  font-size: 46px;
+}
+
+header h1 .cdr-word {
+  font-family: 'Helvetica Neue', sans-serif;
+  text-transform: uppercase;
+  width: 40%;
+}
+
+#basketItemCount {
+  color: green;
+  font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.pastry-list {
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  font-size: 32px;
+}
+
+.pastry-list li {
+  padding: 20px 0;
+  border-bottom: 1px solid black;
+}
+
+.pastry-list li:last-child {
+  border-bottom: 0;
+}
